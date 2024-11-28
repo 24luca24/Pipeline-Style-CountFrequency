@@ -1,0 +1,23 @@
+{
+  "name": "ps",
+  "version": "1.0.0",
+  "description": "This is the starter template for the labs of the **Programming Styles 2024** course at USI.",
+  "main": "test.js",
+  "dependencies": {
+    "shelljs": "^0.8.5",
+    "yargs": "^15.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usi-ps-2024/ps-starter-2024.git"
+  },
+  "author": "LuCE Reseach Lab - USI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usi-ps-2024/ps-starter-2024/issues"
+  },
+  "homepage": "https://github.com/usi-ps-2024/ps-starter-2024#readme"
+}
