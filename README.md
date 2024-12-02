@@ -5,4 +5,4 @@ Program that count frequency of the word, given a text and the number of most fr
   3)Avoid impure action
 
 To run the program with the test (size small or large):
-node test --size small --lang java --main TermFrequency
+Java TermFrequency (input-small.txt / input-large.txt) (n where n is a the top frequency word you want to retrieve)
